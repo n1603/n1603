@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Ganesh stats](https://github-readme-stats.vercel.app/api?username=n1603)](https://github.com/n1603/github-readme-stats)
+
+
 <!--
 **n1603/n1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
